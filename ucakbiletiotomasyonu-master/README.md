@@ -12,4 +12,3 @@ Türk Hava Yollarının API'sinden arana bileti çekerek biletleri listeleme, Se
 ![alt text](http://ucakbilet.berkaydelen.com/Page_ticketListOrderPrice_imac2015retina_front.png)
 
 
-Copyright  © Berkay DELEN
